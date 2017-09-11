@@ -1,0 +1,1 @@
+pandoc -t revealjs --self-contained --slide-level 1 -V theme=white -V progress=true -V slideNumber=true -V margin=0.25 -s slp.md -o presentjda.html
