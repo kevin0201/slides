@@ -114,3 +114,18 @@ de l’indice S&P 500 entre le 11 Août 2015 et le 11 Août 2017
 ## Résultats de la détection
 
 ![Isolation d'anomalies](anomalie_vs_normal.png)
+
+# CONCLUSION
+
+
+##  
+
+Python a été un véritable compagnon au cours de cette expérience professionnelle.
+L’ensemble des missions ont été menées avec lui comme principal outil. Il
+se veut être une véritable alternative, souple, puissante et polyvalante, à Microsoft
+Excel et SAS.
+Dans l'ensemble mon alternance s'est bien déroulé et je me suis attelé à accomplir les missions qui m'ont été confiées.
+Bien que j'ai pu rencontrer des difficultés, je considère que cela fait parti de la vie professionnel et de l'expérience.
+
+
+# MERCI
